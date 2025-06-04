@@ -49,20 +49,7 @@ HerHealth AI is a comprehensive application designed to assist women in tracking
 - `backend/`: Contains the backend API code (if applicable).
 - `README.md`: Project documentation.
 
-## Contributing
 
-We welcome contributions to improve HerHealth AI. Please follow these steps to contribute:
-
-1. Fork the repository.
-2. Create a new branch:
-    ```bash
-    git checkout -b feature/your-feature-name
-    ```
-3. Make your changes and commit them:
-    ```bash
-    git commit -m "Add your commit message"
-    ```
-4. Push to the branch:
     ```bash
     git push origin feature/your-feature-name
     ```
